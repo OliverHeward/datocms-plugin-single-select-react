@@ -2,6 +2,7 @@
   "name": "datocms-plugin-single-select-react",
   "version": "0.1.0",
   "author": "Oliver Heward",
+  "homepage": "https://github.com/oliverheward/datocms-plugin-single-select-react",
   "description": "A Single Select Plugin built with React + Typescript for DatoCMS",
   "keywords": ["datocms", "datocms-plugin", "datocms-single-select", "react", "datocms-single-select-react"],
   "dependencies": {
