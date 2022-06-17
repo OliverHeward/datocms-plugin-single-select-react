@@ -1,9 +1,9 @@
 {
-  "name": "datocms-single-select-react",
+  "name": "datocms-plugin-single-select-react",
   "version": "0.1.0",
   "author": "Oliver Heward",
   "description": "A Single Select Plugin built with React + Typescript for DatoCMS",
-  "keywords": ["datocms", "datocms-single-select", "react", "datocms-single-select-react"],
+  "keywords": ["datocms", "datocms-plugin", "datocms-single-select", "react", "datocms-single-select-react"],
   "dependencies": {
     "@types/node": "^16.11.41",
     "@types/react": "^17.0.47",
@@ -46,6 +46,10 @@
     "title": "Single Select React",
     "previewImage": "",
     "coverImage": "",
-    "entryPoint": "build/index.html"
+    "entryPoint": "build/index.html",
+    "fieldTypes": [
+      "json"
+    ],
+    "pluginType": "field_editor"
   }
 }
